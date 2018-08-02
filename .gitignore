@@ -9,3 +9,5 @@ obj
 /Build/Plugins/*.dll
 /Build/Builder.pdb
 /Build/Builder.exe.config
+*.dll
+Build/SlimDX.dll
